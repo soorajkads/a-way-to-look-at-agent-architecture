@@ -7,7 +7,7 @@ This paper looks at AI agent systems as four planes: Intelligence, Orchestration
 
 It is written for developers and architects who build production agents. It is a way of looking at agent systems, not a specification.
 
-Read the paper: A_Way_to_Look_at_Agent_Architecture.pdf
+Read the paper: [A_Way_to_Look_at_Agent_Architecture.pdf](A_Way_to_Look_at_Agent_Architecture.pdf)
 
 Cite this paper: Kadnor, S. (2026). A Way to Look at Agent Architecture: Four Planes and Workflows. Zenodo. https://doi.org/10.5281/zenodo.23670951
 
